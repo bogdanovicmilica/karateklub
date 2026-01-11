@@ -1,0 +1,30 @@
+BOOTSTRAP SAJT- IDEJA:
+
+1. STRANICA: 
+O sportu, slike kluba, slike takmicara, slide tri slike, 
+U navigaciji da postoji dugme uclanjenja. Objasnjenje samog sporta, 
+Objasnjenje stilova.
+
+2. STRANICA:
+
+Treneri, njihova istorija, osnivac kluba, njihovi opisi. 
+Individualni treninzi sa njima, grupni treninzi sa njima
+
+3. STRANICA: 
+Treninzi izgled treninga, nacin treniranja po uzrastima, 
+Odrzavanje treninga, vreme odrzavanja treninga
+
+4. STRANICA: 
+Takmicenja i polaganja po pojasevima, takmicenja u katama
+takmicenja u borbama i kategorije
+
+5. STRANICA:
+O AUTORU
+
+
+COLOR PALETA: 
+
+white red black PRIMARY
+DARK blue SECONDARY
+
+ 
